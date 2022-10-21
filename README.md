@@ -46,8 +46,7 @@
 <a href="https://www.linkedin.com/in/ben-stimpson-0aba341ab/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%72%73%70%65%6E%63%65%63%6F%64%69%6E%67%40%67%6D%61%69%6C%2E%63%6F%6D"><img src="https://img.shields.io/badge/email-EEEEEE?style=for-the-badge&logo=email&logoColor=EA4335" alt="email"/> </a>
-<br>
+<a href='mailto:ben.stimpson@outlook.com'><img src="https://img.shields.io/badge/email-EEEEEE?style=for-the-badge&logo=email&logoColor=EA4335" alt="email"/> </a>
 
 <!--
 **nebzila/nebzila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
