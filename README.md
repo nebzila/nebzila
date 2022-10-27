@@ -39,6 +39,7 @@
 
   <p>
   <img src="https://img.shields.io/badge/-postman-FC6C34?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blender-236192?style=for-the-badge&logo=blender&logoColor=EA7600"/>
   </p>
 
 ### Connect
