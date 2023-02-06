@@ -6,15 +6,15 @@
  🤝 I'm open to collaborating
 </p>
 <h1 align="center">Technologies<br><img src="https://media.tenor.com/IESk2X7FqlEAAAAj/windows-xp-loading.gif" width="70"/></h1>
-
- Programming languages
-
-  <p align="center">
+ 
+  <div align="center">
   <h3>Programming Languages</h3>
+  <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
+  </div>
+  </div>
 ### Front-end
 
   <p align="center">
