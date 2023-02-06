@@ -1,4 +1,4 @@
-<h1 align="center">Thanks for stopping by!</h1>
+<h1 align="center">Hello, World!</h1>
 
 - 🌍 I'm based in Michigan
 - 🤝 I'm open to collaborating
