@@ -3,7 +3,7 @@
 - 🌍 I'm based in Michigan
 - 🤝 I'm open to collaborating
 
-  <h1 align="center">Technologies<br><img src="https://media.tenor.com/IESk2X7FqlEAAAAj/windows-xp-loading.gif" width="70"/></h1>
+<h1 align="center">Technologies<br><img src="https://media.tenor.com/IESk2X7FqlEAAAAj/windows-xp-loading.gif" width="70"/></h1>
 
 **Programming languages**
 
