@@ -1,12 +1,12 @@
 <h1 align="center">Hello, World!</h1>
 <!-- <p align="center">
  🌍 I'm based in Michigan
-</p>
-<p align="center">
  🤝 I'm open to collaborating
 </p>
 <h1 align="center">Technologies<br> -->
+<div align="center">
  <img src="https://media.tenor.com/IESk2X7FqlEAAAAj/windows-xp-loading.gif" width="70"/>
+</div>
 <!-- </h1> -->
  <!-- 
   <div align="center">
