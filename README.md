@@ -1,12 +1,14 @@
 <h1 align="center">Hello, World!</h1>
-<p align="center">
+<!-- <p align="center">
  🌍 I'm based in Michigan
 </p>
 <p align="center">
  🤝 I'm open to collaborating
 </p>
-<h1 align="center">Technologies<br><img src="https://media.tenor.com/IESk2X7FqlEAAAAj/windows-xp-loading.gif" width="70"/></h1>
- 
+<h1 align="center">Technologies<br> -->
+ <img src="https://media.tenor.com/IESk2X7FqlEAAAAj/windows-xp-loading.gif" width="70"/>
+<!-- </h1> -->
+ <!-- 
   <div align="center">
   <h3>Programming Languages</h3>
   <div>
@@ -15,7 +17,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </div>
   </div>
-
+ <!--
   <div align="center">
   <h3>Front End</h3>
   <div>
@@ -25,7 +27,7 @@
   <img src="https://img.shields.io/badge/-tailwind-00B8D5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
  </div>
  </div>
-
+<!--
   <div align="center">
   <h3>Back End</h3>
   <div>
@@ -36,7 +38,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
  </div>
  </div>
-
+<!--
   <div align="center">
   <h3>Design & Collaboration</h3>
   <div>
@@ -47,7 +49,7 @@
  </div>
  </div>
 
-
+<!--
   <div align="center">
   <h3>Misc.</h3>
   <div>
@@ -66,6 +68,7 @@
    <a href='mailto:ben.stimpson@outlook.com'><img src="https://img.shields.io/badge/email-EEEEEE?style=for-the-badge&logo=email&logoColor=EA4335"       alt="email"/>
     </div>
  </div>
+  
 <!--
 **nebzila/nebzila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
